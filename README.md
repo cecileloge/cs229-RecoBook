@@ -1,4 +1,4 @@
-# CS 229 Book Recommender Project
+# Building the optimal Book Recommender
 
 If you're interested, the dataset is a combination of the following datasets:
 * https://github.com/zygmuntz/goodbooks-10k
