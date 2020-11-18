@@ -10,3 +10,4 @@ Please cite if you build on our work:
 * Paper: http://cs229.stanford.edu/proj2019aut/data/manual/book.pdf
 * Poster: http://cs229.stanford.edu/proj2019aut/data/assignment_308875_raw/26478633.pdf
 
+![alt text](https://github.com/cecileloge/cs229-RecoBook/blob/master/Poster.png?raw=true)
