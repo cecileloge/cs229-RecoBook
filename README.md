@@ -1,4 +1,4 @@
-# Building the optimal Book Recommender
+# Building a Book Recommender
 
 If you're interested, the dataset is a combination of the following datasets:
 * https://github.com/zygmuntz/goodbooks-10k
