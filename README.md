@@ -1,4 +1,4 @@
-# Building a Book Recommender
+# Book Recommender with Matrix Factorization / ALS
 
 If you're interested, the dataset is a combination of the following datasets:
 * https://github.com/zygmuntz/goodbooks-10k
