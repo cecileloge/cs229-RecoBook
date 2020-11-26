@@ -1,4 +1,7 @@
 # Book Recommender with Matrix Factorization / ALS
+*Stanford CS229 Project*
+
+----
 
 If you're interested, the dataset is a combination of the following datasets:
 * https://github.com/zygmuntz/goodbooks-10k
