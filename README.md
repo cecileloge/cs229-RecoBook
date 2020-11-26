@@ -1,5 +1,5 @@
 # Book Recommender with Matrix Factorization / ALS
-*Stanford CS229 Project*
+*Stanford CS229 Project / Obtained Best Poster Award / Top 5% of Projects*
 
 ----
 
