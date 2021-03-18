@@ -14,8 +14,9 @@ Enjoy!
 Please cite if you build on our work:
 
 
-[![Paper](https://img.shields.io/badge/paper-stanford-blue)](http://cs229.stanford.edu/proj2019aut/data/manual/book.pdf)
-[![Paper](https://img.shields.io/badge/award-best%20poster-brightgreen)](http://cs229.stanford.edu/proj2019aut/data/assignment_308875_raw/26478633.pdf)
+[![Paper](https://img.shields.io/badge/paper2019-stanford-blue)](http://cs229.stanford.edu/proj2019aut/data/manual/book.pdf)
+[![Paper](https://img.shields.io/badge/award2019-best%20poster-brightgreen)](http://cs229.stanford.edu/proj2019aut/data/assignment_308875_raw/26478633.pdf)
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/cecileloge/]
 <!--
 * Paper: http://cs229.stanford.edu/proj2019aut/data/manual/book.pdf
 * Poster: http://cs229.stanford.edu/proj2019aut/data/assignment_308875_raw/26478633.pdf
